@@ -19,7 +19,7 @@ const Contact = () => {
             <div className="app__footer-card">
             
                <img src={images.twitter} alt="twitter-img" />
-               <a href="https://twitter.com/MosesKel16003083" className="p-text">
+               <a href="https://twitter.com/Kelvin_2323"  target="_blank" className="p-text">
                Twitter
                </a>
             </div>
@@ -27,6 +27,7 @@ const Contact = () => {
                <img src={images.linkedln} alt="linkedin-img" />
                <a
                   href="https://www.linkedin.com/in/kelvin-moses-90538023a"
+                  target="_blank"
                   className="p-text"
                >
                   Linkedln
@@ -34,14 +35,14 @@ const Contact = () => {
             </div>
             <div className="app__footer-card">
                <img src={images.github} alt="Github-img" />
-               <a href="https://github.com/Moses-Kelvin" className="p-text">
+               <a href="https://github.com/Moses-Kelvin"  target="_blank" className="p-text">
                  GitHub
                </a>
             </div>
             <div className="app__footer-card">
             
             <img src={images.whatsapp} alt="whatsApp-img" />
-            <a href="https://wa.me/08108989321" className="p-text">
+            <a href="https://wa.me/+2348108989321" target="_blank" className="p-text">
             WhatsApp
             </a>
          </div>
